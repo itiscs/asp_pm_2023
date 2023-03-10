@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MVCFirst/.vs/MVCFirst
+/MVCFirst/MVCFirst/bin/Debug/netcoreapp3.1
+/MVCFirst/MVCFirst/obj

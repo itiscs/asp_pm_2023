@@ -12,3 +12,12 @@
 /LambdaApp/.vs
 /LambdaApp/LambdaApp/bin/Debug/net7.0
 /LambdaApp/LambdaApp/obj
+/ContosoUni/.vs/ContosoUni
+/ContosoUni/ContosoUni/bin/Debug/netcoreapp3.1
+/ContosoUni/ContosoUni/obj
+/IdentityApp/.vs/IdentityApp
+/IdentityApp/IdentityApp/bin/Debug/netcoreapp3.1
+/IdentityApp/IdentityApp/obj
+/RolesApp/.vs/RolesApp
+/RolesApp/RolesApp/bin/Debug/netcoreapp3.1
+/RolesApp/RolesApp/obj

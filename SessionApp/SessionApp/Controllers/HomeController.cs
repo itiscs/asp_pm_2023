@@ -30,6 +30,7 @@ namespace SessionApp.Controllers
 
         public IActionResult Privacy(string? name)
         {
+          
             if(name != null) 
             {   
                 Response.Cookies.Append("name", name);                
